@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0035)/trang-chu -->
 <html>
 
 <head>
@@ -11,20 +10,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/fe/site/logo2.png" type="image/x-icon">
     <title>TRU TIÊN THẦN LONG</title>
-    <meta name="description" content="KIẾM THÁNH 2 - TINH HOA GAME PC NHẬP VAI TIÊN HIỆP">
+    <meta name="description" content="TRU TIÊN THẦN LONG - PHIÊN BẢN 18 CLASS">
     <meta property="og:type" content="article">
     <meta property="og:title" content="KIẾM THÁNH 2">
-    <meta property="og:image" content="https://st1.cmn.vn/games/kiem-thanh-2/images/600x315.jpg?ver=1.3">
-    <meta property="og:image:secure_url" content="https://st1.cmn.vn/games/kiem-thanh-2/images/600x315.jpg?ver=1.3">
-    <meta property="og:description" content="KIẾM THÁNH 2 - TINH HOA GAME PC NHẬP VAI TIÊN HIỆP">
+    <meta property="og:description" content="TRU TIÊN THẦN LONG - PHIÊN BẢN 18 CLASS">
     <meta property="og:url" content="/trang-chu">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
         integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!-- Global site tag (gtag.js) - Google Ads: 10775049971 -->
 
 
-    <!-- Google tag (gtag.js) -->
     <script async="" src="/fe/site/js(1).js"></script>
 
     <link href="/fe/site/style.css" rel="stylesheet">
@@ -212,7 +207,7 @@
     <script src="/fe/site/jquery.nice-select.js"></script>
     <script src="/fe/site/main.js"></script>
     <script type="text/javascript">
-        var GAME_SLUG = 'kiem-thanh-2';
+        var GAME_SLUG = 'tru tien than long';
         var BASE_URL = '';
         var APPSTORE_URL = 'https://appstore.cmn.vn';
         var PAY_URL = 'https://id.cmn.vn';

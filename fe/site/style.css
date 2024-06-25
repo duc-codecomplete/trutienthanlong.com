@@ -15067,7 +15067,7 @@ a {
     width: 168px;
     height: 465px;
     padding: 60px 0 0 0;
-    background: url(../images/menu-frame-bg.png) no-repeat;
+    background: url(/fe/images/menu-frame-bg.png) no-repeat;
     text-align: center; }
     .header .navbar-nav li a {
       display: block;
@@ -15075,13 +15075,13 @@ a {
       line-height: 52px;
       -webkit-animation: all .2s ease-in-out;
       animation: all .2s ease-in-out;
-      color: #b88b8b;
+      color: white;
       text-transform: capitalize;
       text-align: center;
       font-weight: bold;
       font-size: 21px; }
       .header .navbar-nav li a:hover, .header .navbar-nav li a.active {
-        background: url(../images/menu-hover-bg.png) no-repeat 0 0/100%;
+        background: url(/fe/images/menu-hover-bg.png) no-repeat 0 0/100%;
         color: #e1d4d4; }
   .header .logo {
     display: block;
