@@ -1,0 +1,1782 @@
+MOXTVersion: 81
+DedaultScale: 1.000000
+PlaySpeed: 1.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -1.225841, -1.148623, -1.502238
+Vec: 1.192472, 1.259509, 1.061632
+UseAABB: 1
+ShakeCam: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 28
+GFXELEMENTID: 210
+Name: Unnamed1
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 图案\K骷髅头.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 2
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+wNumber: 11
+hNumber: 11
+-0.750000 0.488247 -1.219759
+dwColor: ffffffff
+-0.600000 0.488247 -1.219759
+dwColor: ffffffff
+-0.450000 0.488247 -1.219759
+dwColor: ffffffff
+-0.300000 0.488247 -1.219759
+dwColor: ffffffff
+-0.150000 0.488247 -1.219759
+dwColor: ffffffff
+0.000000 0.488247 -1.219759
+dwColor: ffffffff
+0.150000 0.488247 -1.219759
+dwColor: ffffffff
+0.300000 0.488247 -1.219759
+dwColor: ffffffff
+0.450000 0.488247 -1.219759
+dwColor: ffffffff
+0.600000 0.488247 -1.219759
+dwColor: ffffffff
+0.750000 0.488247 -1.219759
+dwColor: ffffffff
+-0.750000 0.483357 -0.759040
+dwColor: ffffffff
+-0.600000 0.483357 -0.759040
+dwColor: ffffffff
+-0.450000 0.428625 -0.759040
+dwColor: ffffffff
+-0.300000 0.483357 -0.759040
+dwColor: ffffffff
+-0.150000 0.534865 -0.759040
+dwColor: ffffffff
+0.000000 0.571407 -0.759040
+dwColor: ffffffff
+0.150000 0.534865 -0.759040
+dwColor: ffffffff
+0.300000 0.440532 -0.759040
+dwColor: ffffffff
+0.450000 0.483357 -0.759040
+dwColor: ffffffff
+0.600000 0.483357 -0.759040
+dwColor: ffffffff
+0.750000 0.483357 -0.759040
+dwColor: ffffffff
+-0.750000 0.450000 -0.852253
+dwColor: ffffffff
+-0.600000 0.450000 -0.490546
+dwColor: ffffffff
+-0.450000 0.395268 -0.492780
+dwColor: ffffffff
+-0.300000 0.450000 -0.250849
+dwColor: ffffffff
+-0.150000 0.502031 -0.250849
+dwColor: ffffffff
+0.000000 0.569712 -0.250849
+dwColor: ffffffff
+0.150000 0.502031 -0.250849
+dwColor: ffffffff
+0.300000 0.407175 -0.250849
+dwColor: ffffffff
+0.450000 0.455745 -0.469173
+dwColor: ffffffff
+0.600000 0.450000 -0.577314
+dwColor: ffffffff
+0.750000 0.450000 -0.898420
+dwColor: ffffffff
+-0.750000 0.300000 -0.727692
+dwColor: ffffffff
+-0.600000 0.300000 -0.439308
+dwColor: ffffffff
+-0.450000 0.245268 -0.248768
+dwColor: ffffffff
+-0.300000 0.262054 -0.055290
+dwColor: ffffffff
+-0.150000 0.300000 0.134573
+dwColor: ffffffff
+0.000000 0.343995 0.223608
+dwColor: ffffffff
+0.150000 0.300000 0.134573
+dwColor: ffffffff
+0.300000 0.219229 -0.069349
+dwColor: ffffffff
+0.450000 0.220392 -0.220075
+dwColor: ffffffff
+0.600000 0.300000 -0.407594
+dwColor: ffffffff
+0.750000 0.300000 -0.727692
+dwColor: ffffffff
+-0.750000 0.150000 -0.727692
+dwColor: ffffffff
+-0.600000 0.150000 -0.439308
+dwColor: ffffffff
+-0.450000 0.150000 -0.248768
+dwColor: ffffffff
+-0.300000 0.122100 -0.055290
+dwColor: ffffffff
+-0.150000 0.150000 0.203716
+dwColor: ffffffff
+0.000000 0.150000 0.300103
+dwColor: ffffffff
+0.150000 0.150000 0.203716
+dwColor: ffffffff
+0.300000 0.122100 -0.069349
+dwColor: ffffffff
+0.450000 0.070392 -0.220075
+dwColor: ffffffff
+0.600000 0.150000 -0.439308
+dwColor: ffffffff
+0.750000 0.150000 -0.727692
+dwColor: ffffffff
+-0.750000 0.000000 -0.727692
+dwColor: ffffffff
+-0.600000 0.000000 -0.439308
+dwColor: ffffffff
+-0.450000 0.000000 -0.248768
+dwColor: ffffffff
+-0.300000 0.000000 -0.055290
+dwColor: ffffffff
+-0.150000 0.000000 0.193602
+dwColor: ffffffff
+0.006015 -0.042092 0.343715
+dwColor: ffffffff
+0.150000 0.000000 0.193602
+dwColor: ffffffff
+0.300000 0.000000 -0.069349
+dwColor: ffffffff
+0.450000 0.000000 -0.220075
+dwColor: ffffffff
+0.600000 0.000000 -0.439308
+dwColor: ffffffff
+0.750000 0.000000 -0.727692
+dwColor: ffffffff
+-0.750000 -0.150000 -0.727692
+dwColor: ffffffff
+-0.600000 -0.150000 -0.439308
+dwColor: ffffffff
+-0.450000 -0.150000 -0.248768
+dwColor: ffffffff
+-0.300000 -0.150000 -0.055290
+dwColor: ffffffff
+-0.150000 -0.150000 0.188214
+dwColor: ffffffff
+0.000000 -0.150000 0.262578
+dwColor: ffffffff
+0.150000 -0.150000 0.188214
+dwColor: ffffffff
+0.300000 -0.150000 -0.069349
+dwColor: ffffffff
+0.450000 -0.150000 -0.220075
+dwColor: ffffffff
+0.600000 -0.150000 -0.439308
+dwColor: ffffffff
+0.750000 -0.150000 -0.727692
+dwColor: ffffffff
+-0.750000 -0.300000 -0.727692
+dwColor: ffffffff
+-0.600000 -0.300000 -0.439308
+dwColor: ffffffff
+-0.450000 -0.300000 -0.248768
+dwColor: ffffffff
+-0.300000 -0.300000 -0.055290
+dwColor: ffffffff
+-0.150000 -0.300000 0.165462
+dwColor: ffffffff
+0.000000 -0.300000 0.273787
+dwColor: ffffffff
+0.150000 -0.300000 0.165462
+dwColor: ffffffff
+0.300000 -0.300000 -0.069349
+dwColor: ffffffff
+0.450000 -0.300000 -0.220075
+dwColor: ffffffff
+0.600000 -0.300000 -0.439308
+dwColor: ffffffff
+0.750000 -0.300000 -0.727692
+dwColor: ffffffff
+-0.750000 -0.450000 -0.727692
+dwColor: ffffffff
+-0.600000 -0.450000 -0.439308
+dwColor: ffffffff
+-0.450000 -0.450000 -0.248768
+dwColor: ffffffff
+-0.300000 -0.450000 -0.055290
+dwColor: ffffffff
+-0.150000 -0.450000 0.058117
+dwColor: ffffffff
+0.000000 -0.450000 0.227782
+dwColor: ffffffff
+0.150000 -0.450000 0.058117
+dwColor: ffffffff
+0.300000 -0.450000 -0.069349
+dwColor: ffffffff
+0.450000 -0.450000 -0.220075
+dwColor: ffffffff
+0.600000 -0.450000 -0.439308
+dwColor: ffffffff
+0.750000 -0.450000 -0.727692
+dwColor: ffffffff
+-0.750000 -0.600000 -1.009133
+dwColor: ffffffff
+-0.600000 -0.600000 -0.720749
+dwColor: ffffffff
+-0.450000 -0.600000 -0.530209
+dwColor: ffffffff
+-0.300000 -0.600000 -0.336731
+dwColor: ffffffff
+-0.150000 -0.600000 -0.281441
+dwColor: ffffffff
+0.000000 -0.600000 -0.180849
+dwColor: ffffffff
+0.150000 -0.600000 -0.281441
+dwColor: ffffffff
+0.300000 -0.600000 -0.350790
+dwColor: ffffffff
+0.450000 -0.600000 -0.501516
+dwColor: ffffffff
+0.600000 -0.600000 -0.720749
+dwColor: ffffffff
+0.750000 -0.600000 -1.009133
+dwColor: ffffffff
+-0.750000 -0.750000 -1.502238
+dwColor: ffffffff
+-0.600000 -0.750000 -1.213854
+dwColor: ffffffff
+-0.450000 -0.750000 -1.023314
+dwColor: ffffffff
+-0.300000 -0.750000 -0.829836
+dwColor: ffffffff
+-0.150000 -0.750000 -0.774546
+dwColor: ffffffff
+0.000000 -0.750000 -0.774546
+dwColor: ffffffff
+0.150000 -0.750000 -0.774546
+dwColor: ffffffff
+0.300000 -0.750000 -0.843895
+dwColor: ffffffff
+0.450000 -0.750000 -0.994621
+dwColor: ffffffff
+0.600000 -0.750000 -1.213854
+dwColor: ffffffff
+0.750000 -0.750000 -1.502238
+dwColor: ffffffff
+fGridSize: 0.300000
+fZOffset: 0.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -434237162
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed4
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 2000
+Position: -0.310870, 0.000000, 0.058280
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed5
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.100000, 0.000000
+OrgPos2: 0.000000, -0.100000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 150
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 2000
+Position: -0.133558, -0.191926, 0.258249
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed6
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.150000, 0.000000
+OrgPos2: 0.000000, -0.150000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 180
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 2000
+Position: -0.229232, -0.290107, 0.114443
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed7
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 600
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.214896, 0.321216, 0.066033
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed8
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 800
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.258688, 0.000000, 0.087043
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed9
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.100000, 0.000000
+OrgPos2: 0.000000, -0.100000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 300
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.104771, -0.191926, 0.252876
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed10
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.150000, 0.000000
+OrgPos2: 0.000000, -0.150000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 300
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.224009, -0.290107, 0.137546
+Color: -1048546
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed11
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.212813, 0.321216, 0.105469
+Color: -3014137
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: ding
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\ghost1.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 1
+VReverse: 1
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.200000, 0.000000, 0.000000
+OrgPos2: -0.200000, 0.000000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 300
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.021024, 0.506217, -0.038651
+Color: -3014137
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed13
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 烟火\fog.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 5
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Quota: -1
+ParticleWidth: 0.400000
+ParticleHeight: 0.400000
+3DParticle: 1
+Facing: 1
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+EmissionRate: 20.000000
+Angle: 6.283185
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.000000
+ColorMin: -6487538
+ColorMax: -8051409
+ScaleMin: 0.500000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 0.000000
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.600000, 0.600000, 0.600000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 1.000000, 0.010000, 9999.000000
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: -5614245
+Count: 3
+Color: -924237774
+TimeSpan: 200.000000
+Color: -6090725
+TimeSpan: 300.000000
+Color: 7538210
+TimeSpan: 500.000000
+AlphaOnly: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed15
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 烟火\沙.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 3
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 5
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Quota: -1
+ParticleWidth: 0.250000
+ParticleHeight: 0.250000
+3DParticle: 1
+Facing: 1
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+EmissionRate: 30.000000
+Angle: 6.283185
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.000000
+ColorMin: -6487538
+ColorMax: -8051409
+ScaleMin: 0.500000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 0.000000
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.200000, 0.200000, 0.400000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 3.000000, 0.010000, 9999.000000
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 8062500
+Count: 3
+Color: -1765470710
+TimeSpan: 200.000000
+Color: -928173515
+TimeSpan: 300.000000
+Color: 7538210
+TimeSpan: 500.000000
+AlphaOnly: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, -0.162378
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed18
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 烟火\云团03.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 7
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Quota: -1
+ParticleWidth: 0.300000
+ParticleHeight: 0.300000
+3DParticle: 1
+Facing: 1
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+EmissionRate: 30.000000
+Angle: 6.283185
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.000000
+ColorMin: -6487538
+ColorMax: -8051409
+ScaleMin: 0.500000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 0.000000
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.650000, 0.650000, 0.650000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 1.000000, 0.010000, 9999.000000
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: -1772084181
+Count: 3
+Color: 1347106360
+TimeSpan: 200.000000
+Color: -13959168
+TimeSpan: 300.000000
+Color: 1315860
+TimeSpan: 500.000000
+AlphaOnly: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 101
+Name: Unnamed19
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 粒子\particle000.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 3
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.150000
+Height: 0.150000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.225000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.161654, 0.041726, 0.149162
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 0.200000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+GFXELEMENTID: 101
+Name: Unnamed20
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 粒子\particle000.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 3
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.150000
+Height: 0.150000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.225000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.152396, 0.041726, 0.149162
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 0.200000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+GFXELEMENTID: 110
+Name: Unnamed21
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 650
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.310870, 0.000000, 0.214137
+Color: -99221234
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed22
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.100000, 0.000000
+OrgPos2: 0.000000, -0.100000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.133558, -0.191926, 0.393370
+Color: -100663296
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed23
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.150000, 0.000000
+OrgPos2: 0.000000, -0.150000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 450
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.229232, -0.290107, 0.233511
+Color: -98172393
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed24
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 550
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.214896, 0.321216, 0.231698
+Color: -98958832
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed25
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 600
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.258688, 0.000000, 0.244502
+Color: -98958832
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed26
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.100000, 0.000000
+OrgPos2: 0.000000, -0.100000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 450
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.104771, -0.191926, 0.430035
+Color: -99090161
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed27
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.150000, 0.000000
+OrgPos2: 0.000000, -0.150000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.224009, -0.290107, 0.288527
+Color: -98696685
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed28
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.000000, 0.200000, 0.000000
+OrgPos2: 0.000000, -0.200000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.212813, 0.321216, 0.332851
+Color: -99090161
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed29
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 轨迹\箭头光通道.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+OrgPos1: 0.200000, 0.000000, 0.000000
+OrgPos2: -0.200000, 0.000000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 450
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.021024, 0.506217, 0.133852
+Color: -99352307
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 101
+Name: Unnamed30
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 粒子\particle000.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 3
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.150000
+Height: 0.150000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.225000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.161654, 0.041726, 0.149162
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 0.200000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+GFXELEMENTID: 101
+Name: Unnamed31
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 粒子\particle000.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 3
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.150000
+Height: 0.150000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.225000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.152396, 0.041726, 0.149162
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 0.200000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+GFXELEMENTID: 123
+Name: Unnamed12
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 烟火\云团03.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 1
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 7
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Quota: -1
+ParticleWidth: 0.200000
+ParticleHeight: 0.200000
+3DParticle: 1
+Facing: 1
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+EmissionRate: 20.000000
+Angle: 6.283185
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 0.720000
+ColorMin: 513606158
+ColorMax: 1350903087
+ScaleMin: 0.500000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 0.000000
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.800000, 0.800000, 0.800000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 1.000000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: 1358954495
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed14
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 烟火\沙.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 3
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 5
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Quota: -1
+ParticleWidth: 0.200000
+ParticleHeight: 0.200000
+3DParticle: 1
+Facing: 1
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+EmissionRate: 20.000000
+Angle: 6.283185
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.000000
+ColorMin: -6487538
+ColorMax: -8051409
+ScaleMin: 0.500000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 0.000000
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.200000, 0.200000, 0.400000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 3.000000, 0.010000, 9999.000000
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 8062500
+Count: 3
+Color: 1355091466
+TimeSpan: 200.000000
+Color: -928173515
+TimeSpan: 300.000000
+Color: 7538210
+TimeSpan: 500.000000
+AlphaOnly: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, -0.162378
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

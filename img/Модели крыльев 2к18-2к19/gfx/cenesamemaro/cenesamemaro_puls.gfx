@@ -1,0 +1,560 @@
+MOXTVersion: 103
+IsAngelica3: 0
+DedaultScale: 1.500000
+PlaySpeed: 2.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -3.574191, -3.574191, -1.634653
+Vec: 3.574191, 3.574191, 1.424144
+UseAABB: 1
+AccurateAABB: 0
+ShakeCam: 0
+ShakeDamp: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 6
+GFXELEMENTID: 120
+Name: Unnamed3
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: ¹âÔÎ\143¹âÔÎ.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Quota: -1
+ParticleWidth: 1.550000
+ParticleHeight: 1.550000
+3DParticle: 1
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+StopEmitWhenFade: 0
+InitRandomTexture: 0
+EmissionRate: 3.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.300000
+ColorMin: -7448088
+ColorMax: -7448088
+ScaleMin: 0.600000
+ScaleMax: 1.300000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AffectorCount: 2
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 16777215
+Count: 3
+Color: -1
+TimeSpan: 300.000000
+Color: -1
+TimeSpan: 500.000000
+Color: 16777215
+TimeSpan: 500.000000
+AlphaOnly: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 0.300000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: -0.707107, 0.000000, 0.000000, 0.707107
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 120
+Name: Unnamed4
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: ¹âÔÎ\143¹âÔÎ.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 5
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Quota: -1
+ParticleWidth: 1.550000
+ParticleHeight: 1.550000
+3DParticle: 1
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+StopEmitWhenFade: 0
+InitRandomTexture: 0
+EmissionRate: 3.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.300000
+ColorMin: -16777216
+ColorMax: -16777216
+ScaleMin: 0.600000
+ScaleMax: 1.300000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AffectorCount: 2
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 16777215
+Count: 3
+Color: -1
+TimeSpan: 300.000000
+Color: -1
+TimeSpan: 500.000000
+Color: 16777215
+TimeSpan: 500.000000
+AlphaOnly: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 0.300000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: -0.707107, 0.000000, 0.000000, 0.707107
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 100
+Name: Unnamed6
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: ¹âÔÎ\Í¨µÀÁ£×Ó2.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Width: 0.400000
+Height: 2.500000
+RotFromView: 1
+GrndNormOnly: 1
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+SurfaceUseParentDir: 0
+MaxExtent: 2.250000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -7448088
+Scale: 1.000000
+Direction: -0.707107, 0.000000, 0.000000, 0.707107
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed8
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: ÑÌ»ð\ÑÌ»ð_00006.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 7
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Quota: -1
+ParticleWidth: 1.000000
+ParticleHeight: 1.000000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+StopEmitWhenFade: 0
+InitRandomTexture: 0
+EmissionRate: 5.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.500000
+ColorMin: -15922421
+ColorMax: -15922421
+ScaleMin: 0.400000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.300000, 3.000000, 0.300000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 16777215
+Count: 3
+Color: 687865855
+TimeSpan: 300.000000
+Color: 687865855
+TimeSpan: 500.000000
+Color: 16777215
+TimeSpan: 500.000000
+AlphaOnly: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 0.300000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed9
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: ÑÌ»ð\ÑÌ»ð_00006.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Quota: -1
+ParticleWidth: 1.000000
+ParticleHeight: 1.000000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+StopEmitWhenFade: 0
+InitRandomTexture: 0
+EmissionRate: 5.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.500000
+ColorMin: -3633175
+ColorMax: -3633175
+ScaleMin: 0.400000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 0.300000, 3.000000, 0.300000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 2
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 16777215
+Count: 3
+Color: 855638015
+TimeSpan: 300.000000
+Color: 855638015
+TimeSpan: 500.000000
+Color: 16777215
+TimeSpan: 500.000000
+AlphaOnly: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 0.300000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed11
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: Á£×Ó\222.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 
+ShaderTex: 
+PSConstCount: 0
+CanDoFadeOut: 1
+Quota: -1
+ParticleWidth: 0.100000
+ParticleHeight: 0.100000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+IsUseParUV: 0
+IsStartOnGrnd: 0
+StopEmitWhenFade: 0
+InitRandomTexture: 0
+EmissionRate: 5.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 1.500000
+ColorMin: -1
+ColorMax: -1
+ScaleMin: 0.100000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+IsUseHSVInterp: 0
+AreaSize: 3.000000, 3.000000, 3.000000
+IsAvgGen: 0
+AlphaSeg: 10
+BetaSeg: 10
+AffectorCount: 3
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 16777215
+Count: 3
+Color: -1
+TimeSpan: 300.000000
+Color: -1
+TimeSpan: 500.000000
+Color: 16777215
+TimeSpan: 500.000000
+AlphaOnly: 1
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 0.300000, 0.010000, 9999.000000
+CtrlType: 104
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Vel: 0.150000
+Acc: 0.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

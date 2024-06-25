@@ -1,0 +1,9 @@
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.csprojResolveAssemblyReference.cache
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.Form1.resources
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.Properties.Resources.resources
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.csproj.GenerateResource.Cache
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\bin\Debug\SkillXMLEditor.exe
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\bin\Debug\SkillXMLEditor.pdb
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.exe
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\obj\Debug\SkillXMLEditor.pdb
+c:\users\kn1fe\documents\visual studio 2015\Projects\SkillXMLEditor\SkillXMLEditor\bin\Debug\SkillXMLEditor.exe.config

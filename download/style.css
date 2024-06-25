@@ -1,0 +1,179 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'UVNThanhPho_R';
+  font-style: normal;
+  src: url('/img/UVNThanhPho_R.eot?#iefix') format('embedded-opentype'),
+       url('/img/UVNThanhPho_R.woff') format('woff'),
+       url('/img/UVNThanhPho_R.ttf') format('truetype'),
+       url('/img/UVNThanhPho_R.svg#UVNThanhPho_R') format('svg');
+}
+
+* {margin:0; padding:0;}
+a {text-decoration:none; color:#000; outline:none;}
+a:hover {color:#e81911;}
+
+ul {list-style:none;}
+img {vertical-align:middle; border:0;}
+body,input {font-size:14px; line-height:1.42857143; color:#2d2d2d; font-family:Arial;}
+html, body, header, footer, section {width:100%; float:left; border:none;}
+
+.hide {display:none !important;}
+.clearfix {clear:both;}
+.container {width:1002px; margin:0 auto;}
+
+body {
+	background:url(/img/bg3.jpg) no-repeat center bottom, url(/img/bg1.jpg) no-repeat center top, url(/img/bg2.jpg) repeat-y center top; position:relative;
+}
+
+/***** Background Flash *****/
+	.flash_bg {
+		width:1300px; height:650px; position:absolute; top:0; left:50%; float:left; z-index:-1;
+		-webkit-transform: translateX(-50%);
+	       -moz-transform: translateX(-50%);
+	        -ms-transform: translateX(-50%);
+	          	transform: translateX(-50%);
+	}
+/***** End Background Flash *****/
+
+/***** Header *****/
+	header nav {float:left; width:100%; text-align:center; height:63px;}
+	header nav .drop_nav,
+	header nav a {
+		display:inline-block; color: #f1f1ea; font-family:'UVNThanhPho_R'; font-size:18px; line-height:1; margin:20px 15px 0; padding-bottom:25px; position:relative;
+		-webkit-transition: color 400ms ease;
+           -moz-transition: color 400ms ease;
+          	-ms-transition: color 400ms ease;
+             -o-transition: color 400ms ease;
+            	transition: color 400ms ease;
+	}
+	header nav .drop_nav:hover,
+	header nav a:hover {color:#e81911;}
+
+	header nav .drop_nav {perspective:1000px;}
+	header nav .drop_nav span {cursor:pointer;}
+	header nav .drop_nav div {
+		float:left; top:100%; left:50%; position:absolute; width:120px; display:none;
+		-webkit-transform: translateX(-50%);
+	       -moz-transform: translateX(-50%);
+	        -ms-transform: translateX(-50%);
+	          	transform: translateX(-50%);
+	}
+
+	header nav .drop_nav:hover div {display:block;}
+	header nav .drop_nav:hover div a { 
+		width:100%; height:100%; background-color:rgba(255,255,255,0.69); float:left; padding:10px 0; margin:0; opacity:0; border-top:1px solid #7faec3;
+		-webkit-animation:drop_nav 300ms ease-in-out forwards;
+				animation:drop_nav 300ms ease-in-out forwards;
+	}
+
+	header nav .drop_nav:hover div a:nth-child(1) {
+		-webkit-animation-delay:0;
+				animation-delay:0;
+	}
+
+	header nav .drop_nav:hover div a:nth-child(2) {
+		-webkit-animation-delay:150ms;
+				animation-delay:150ms;
+	}
+
+	header nav .drop_nav:hover div a:nth-child(3) {
+		-webkit-animation-delay:300ms;
+				animation-delay:300ms;
+	}
+
+	@keyframes drop_nav {
+		  0% {
+		  	opacity:0;
+		  	transform: rotateY(-90deg) translate(30px);
+		}
+
+		100% {
+			opacity:1;
+			transform: rotateY(0) translate(0);
+		}
+	}
+
+	header nav .drop_nav div span,
+	header nav .drop_nav div a {float:left; width:100%; color:#5b6e84; text-align:center; margin:7px 0 8px; padding:0;}
+	header nav .drop_nav div a:hover {color:#e81911;}
+ 	
+ 	header nav .drop_nav div span {font-weight:bold;}
+	header .logo {width:247px; height:140px; float:left; background:url(/images/logo.png) no-repeat center top; opacity:0.87; margin-top:5px;}
+	header .logo:hover {opacity:1;}
+/***** End Header *****/
+
+/***** Section *****/
+	section {min-height:1650px;}
+	section nav {width:100%; height:93px; float:left; margin:245px 0 0; background:url(/img/btn_menu.png) no-repeat left bottom; position:relative;}
+	section nav .btn {float:left; width:460px; height:93px; background:url(/img/btn_menu.png) no-repeat left top; cursor:pointer;}
+	section nav .btn.update {width:460px; background-position:left bottom;}
+	section nav .btn.guide {width:282px; background-position:-460px bottom;}
+	section nav .btn.system {width:260px; background-position:-742px bottom;}
+
+	section nav .btn:hover,
+	section nav .btn.active {background-position:left top;}
+	section nav .btn.update:hover,
+	section nav .btn.update.active {background-position:left top;}
+	section nav .btn.guide:hover,
+	section nav .btn.guide.active {background-position:-460px top;}
+	section nav .btn.system:hover,
+	section nav .btn.system.active {background-position:-742px top;}
+
+	section nav .btn.download {position:absolute; bottom:0; left:-37px; width:300px; height:280px; background:none;}
+	section nav .btn.download:hover,
+	section nav .btn.download.active {background:none;}
+
+	section .content {width:734px; padding:25px 134px; float:left; font-size:15px; color:#696969;}
+	section .content .block {width:100%; float:left;}
+	section .content .block h1 {width:100%; float:left; font-size:25px; font-weight:bold; text-indent:40px; color:#34322f; text-transform:uppercase; background:url(/img/i_h1.png) no-repeat left center;}
+	section .content .block .title {width:160px; height:50px; padding-top:11px; margin-top:20px; float:left; font-size:25px; font-weight:bold; text-align:center; color:#e9eae7; text-transform:uppercase; background:url(/img/bg_btn_content.jpg) no-repeat left center;}
+	section .content .block .title.fshare {margin-top:40px;}
+	section .content .block h2 {width:100%; float:left; font-size:15px; padding-top:2px; margin-top:10px; color:#34322f; font-weight:bold; text-indent:20px; background:url(/img/i_h2.png) no-repeat left center;}
+	
+	section .content .block p {margin-top:10px;}
+	
+	section .content .block .col {width:100%; float:left;}
+	section .content .block .col.note {color:red; text-indent:20px; font-weight:bold;}
+	section .content .block .col span {width:50%; float:left; text-align:left;}
+
+	section .content .block table {width:100%; float:left; border-collapse:collapse; text-align:center; margin-top:10px;}
+	section .content .block table thead tr {background-color:#d7d8d9;}
+	section .content .block table tr {border-bottom:1px solid #d7d8d9;}
+
+	section .content .block table th,
+	section .content .block table td {border-left:1px solid #c3c4c4; padding:10px 0;}
+
+	section .content .block table th:first-child,
+	section .content .block table td:first-child {border:none;}
+
+	section .content .block table td a {color:#e81911; font-weight:bold;}
+	section .content .block table td a:hover {text-decoration:underline;}
+
+	section .content .guide .btn {width:100%; height:247px; float:left; position:relative; margin-top:10px;}
+	section .content .guide .btn a {width:394px; height:100%; float:left; background:url(/img/btn_guide.png) no-repeat left center; opacity:0.87; position:absolute; top:0; left:0;}
+	section .content .guide .btn a:hover {opacity:1;}
+	section .content .guide .btn ._g1 {width:394px; background-position:left center; left:-211px;}
+	section .content .guide .btn ._g2 {width:305px; background-position:-394px center; left:183px;}
+	section .content .guide .btn ._g3 {width:317px; background-position:right center; left:488px;}
+
+	section .content .system table {margin-top:20px;}
+	section .content .system table td:first-child {background-color:#d7d8d9; font-weight:bold; color:#626262; border-top:1px solid #c3c4c4;}
+
+	.banner {width:218px; height:307px; float:left; background:url(/img/banner_nhanquataigame.png) no-repeat center center; position:fixed; top:25%; left:10px; z-index:10; opacity:0.93;}
+	.banner:hover {opacity:1;}
+	.banner a {width:100%; height:100%; float:left;}
+/***** End Section *****/
+
+/***** Footer *****/
+	footer {width:100%; height:81px; padding:18px 0; margin:0 0 100px;}
+	footer .container {text-align:center;}
+	footer .container .logo {display:block; height:39px; float:left; margin-top:18px;}
+	footer .container .logo.gosu {width:162px; height:42px; background:url(/img/logo_gosu.png) no-repeat center center; background-size:cover; margin-left:17px;}
+	footer .container .logo.cubinet {width:238px; background:url(/img/logo_cubinet.png) no-repeat center top; background-size:cover;}
+	footer .container .address {width:565px; height:81px; float:left; padding-top:0px;}
+	footer .container .address p {text-align:center; width:100%; font-size:14px; font-family:Tahoma; float:left; color:#000; margin-top:5px;}
+	footer .container .address a {color:#000; font-size:14px; font-family:Tahoma; padding:0 2px 0 5px; border-left:1px solid #000; line-height:1;}
+	footer .container .address a:first-child {border-left:none;}
+	footer .container .address a:hover {color:#ff9427;}
+/***** End Footer *****/

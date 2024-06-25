@@ -1,0 +1,73 @@
+.popup-kulcard-bg {
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*background: rgba(0,0,0,.7);*/
+    /*z-index: 0;*/
+    background: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    /*display: none;*/
+}
+
+
+.popup-kulcard {
+    width: 516px;
+    height: 380px;
+    max-width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+    /*display: none;*/
+}
+ .popup-kulcard img {
+    max-width: 100%;
+}
+
+.popup-kulcard-btn {
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: 13%;
+    line-height: 0.6;
+    transform: translateX(-50%);
+    transition: all 0.2s;
+    animation: bright 1.2s infinite;
+}
+.popup-kulcard-btn:hover {
+    filter: brightness(150%);
+}
+
+.popup-kulcard-close {
+    display: block;
+    position: absolute;
+    right: 10%;
+    top: 3%;
+    line-height: 0.6;
+}
+.popup-kulcard-close:hover {
+    filter: brightness(150%);
+}
+
+@-webkit-keyframes bright {
+    0%,100% { filter: brightness(100%); }
+    50% { filter: brightness(150%); }
+}
+
+@keyframes bright {
+    0%,100% { filter: brightness(100%); }
+    50% { filter: brightness(150%); }
+}

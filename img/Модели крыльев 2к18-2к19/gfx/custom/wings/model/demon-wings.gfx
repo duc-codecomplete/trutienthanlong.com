@@ -1,0 +1,58 @@
+MOXTVersion: 58
+DedaultScale: 0.450000
+PlaySpeed: 0.500000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -2.935140, -2.762439, -0.894319
+Vec: 3.008381, 2.802009, 1.314318
+UseAABB: 1
+ShakeCam: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+GFXELEMENTCOUNT: 2
+GFXELEMENTID: 160
+Name: Unnamed32
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ModelPath: \wings\demon-wings\¶ñÄ§³á°ò.SMD
+ModelActName: ÐüÍ£
+Loops: -1
+AlphaCmp: 0
+WriteZ: 1
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

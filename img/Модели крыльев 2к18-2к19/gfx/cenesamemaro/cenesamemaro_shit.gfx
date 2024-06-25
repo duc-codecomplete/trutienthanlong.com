@@ -1,0 +1,601 @@
+MOXTVersion: 64
+DedaultScale: 1.500000
+PlaySpeed: 0.800000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -1.091214, -0.511882, -1.422362
+Vec: 1.117123, 0.495759, 1.393823
+UseAABB: 1
+ShakeCam: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 7
+GFXELEMENTID: 100
+Name: Unnamed14
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 图案\八卦内圈红.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Width: 0.050000
+Height: 0.050000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.075000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 3
+InterpolateMode: 0
+TimeSpan: 300
+Position: -0.246083, 0.000000, -0.540617
+Color: -21504
+Scale: 1.000000
+Direction: 0.110711, 0.247584, -0.041985, 0.961604
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 20.000000, 0.010000, 9999.000000
+CtrlType: 104
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Vel: 0.500000
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 2.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -7551233
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -8355585
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 2
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 200.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1265842433
+InterpolateMode: 0
+TimeSpan: 25
+Position: 0.640802, 0.399846, -0.066403
+Color: -1
+Scale: 1.000000
+Direction: 0.154709, -0.682761, 0.151364, 0.697848
+Rad_2D: 0.000000
+CtrlMethodCount: 2
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 200.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1258291201
+GFXELEMENTID: 100
+Name: Unnamed15
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 图案\八卦内圈绿.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Width: 0.050000
+Height: 0.050000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.075000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 300
+Position: 0.640802, 0.000000, -0.066403
+Color: -21504
+Scale: 1.000000
+Direction: 0.094931, -0.687030, 0.094031, 0.714238
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 200.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1265842433
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 20.000000, 0.010000, 9999.000000
+CtrlType: 104
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Vel: 0.500000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 2
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 200.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1265842433
+GFXELEMENTID: 100
+Name: Unnamed16
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 图案\八卦内圈蓝.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Width: 0.050000
+Height: 0.050000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.075000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 300
+Position: -0.291513, 0.000000, 0.520152
+Color: -7551233
+Scale: 1.000000
+Direction: -0.163484, -0.211340, -0.042034, 0.962726
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 800.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1265842433
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: 20.000000, 0.010000, 9999.000000
+CtrlType: 104
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Vel: 0.500000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 2
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 2.617994
+Acc: 0.000000
+CtrlType: 107
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 200.000000
+WaveLen: 50
+Persistence: 0.250000
+OctaveNum: 5
+BaseColor: -1265842433
+GFXELEMENTID: 170
+Name: Unnamed12
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Path: Skill\02Mage\奇门护甲_D.wav
+SoundVer: 1
+Force2D: 0
+IsLoop: 1
+Volume: 100
+MinDist: 6.000000
+MaxDist: 25.000000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 5850
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed1
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 多个粒子\suibingkuai.dds
+BindEle: Unnamed14
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Quota: -1
+ParticleWidth: 0.150000
+ParticleHeight: 0.150000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+EmissionRate: 3.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 0.500000
+ColorMin: -1
+ColorMax: -1
+ScaleMin: 0.300000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+AreaSize: 2.000000, 0.500000, 0.500000
+AffectorCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 1.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed2
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 多个粒子\suibingkuai.dds
+BindEle: Unnamed15
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Quota: -1
+ParticleWidth: 0.150000
+ParticleHeight: 0.150000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+EmissionRate: 2.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 0.500000
+ColorMin: -1
+ColorMax: -1
+ScaleMin: 0.300000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+AreaSize: 2.000000, 0.500000, 0.500000
+AffectorCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 1.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 123
+Name: Unnamed3
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 多个粒子\suibingkuai.dds
+BindEle: Unnamed16
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+Quota: -1
+ParticleWidth: 0.150000
+ParticleHeight: 0.150000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+EmissionRate: 2.000000
+Angle: 0.000000
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.000000, 0.000000, -1.000000
+Acc: 0.000000
+TTL: 0.500000
+ColorMin: -1
+ColorMax: -1
+ScaleMin: 0.300000
+ScaleMax: 1.000000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 1
+IsDrag: 0
+DragPow: 1.000000
+ParIniDir: 0.000000, 0.000000, 0.000000
+AreaSize: 2.000000, 0.500000, 0.500000
+AffectorCount: 1
+CtrlType: 109
+StartTime: 0.000000
+EndTime: -1.000000
+BufLen: 256
+Amplitude: 1.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

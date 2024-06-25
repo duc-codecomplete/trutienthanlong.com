@@ -1,0 +1,233 @@
+MOXTVersion: 103
+IsAngelica3: 0
+DedaultScale: 1.000000
+PlaySpeed: 1.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -0.751918, -0.439646, -0.258054
+Vec: 0.633953, 0.714138, 0.223991
+UseAABB: 1
+AccurateAABB: 0
+ShakeCam: 0
+ShakeDamp: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 2
+GFXELEMENTID: 152
+Name: Unnamed24
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 100
+TexFile: 闪电\闪电灰橘色_td.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 1
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 溶解.sdr
+ShaderTex: 纹理\纹理_00188.dds
+PSConstCount: 1
+PSConstIndex: 0
+PSConstValue: 0.000000, 0.000000, 0.000000, 0.000000
+PSLoopCount: 1
+PSTargetCount: 2
+PSInterval: 100
+PSConstValue: 0.300000, 0.000000, 0.000000, 0.000000
+PSInterval: 200
+PSConstValue: 1.000000, 0.000000, 0.000000, 0.000000
+CanDoFadeOut: 1
+BufLen: 256
+Amplitude: 2.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+StartPos: 0.000000, 0.000000, 0.000000
+EndPos: 0.000000, 0.000000, 0.000000
+Segs: 20
+LightNum: 1
+WaveLen: 1.000000
+Interval: 100
+Width: 0.070000
+Width: 0.070000
+Alpha: 1.000000
+Alpha: 1.000000
+Width: 0.070000
+Alpha: 1.000000
+DestNum: 1
+StartTime: 0
+DestVal: 0.000000
+DestVal: 0.150000
+TransTime: 150
+Pos1Enable: 0
+Pos2Enable: 0
+UseNormal: 0
+Normal: 0.000000, 0.000000, 0.000000
+Filter: 1
+WaveMoving: 0
+WaveMovingSpeed: 1.000000
+FixWaveLength: 0
+NumWaves: 5.000000
+isappend: 1
+renderside: 0
+istaildisappear: 1
+vertslife: 1000
+tailfadeout: 0
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 75
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 110
+StartTime: 0.000000
+EndTime: -1.000000
+CalcDir: 0
+Count: 6
+Pos: 0.516000, 0.000000, 0.000000
+Pos: 0.325000, 0.379500, 0.000000
+Pos: 0.004000, 0.506000, 0.000000
+Pos: -0.347187, 0.336235, 0.000000
+Pos: -0.500000, 0.000000, 0.000000
+Pos: -0.329051, -0.350218, 0.000000
+InterpolateMode: 0
+TimeSpan: 750
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 152
+Name: Unnamed25
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 100
+TexFile: 闪电\淡紫色闪电_td.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 3
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 1
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+PSFileVersion: 1
+ShaderFile: 溶解.sdr
+ShaderTex: 纹理\纹理_00188.dds
+PSConstCount: 1
+PSConstIndex: 0
+PSConstValue: 0.000000, 0.000000, 0.000000, 0.000000
+PSLoopCount: 1
+PSTargetCount: 2
+PSInterval: 100
+PSConstValue: 0.300000, 0.000000, 0.000000, 0.000000
+PSInterval: 200
+PSConstValue: 1.000000, 0.000000, 0.000000, 0.000000
+CanDoFadeOut: 1
+BufLen: 256
+Amplitude: 2.000000
+WaveLen: 1
+Persistence: 0.250000
+OctaveNum: 5
+StartPos: 0.000000, 0.000000, 0.000000
+EndPos: 0.000000, 0.000000, 0.000000
+Segs: 20
+LightNum: 1
+WaveLen: 1.000000
+Interval: 100
+Width: 0.070000
+Width: 0.070000
+Alpha: 1.000000
+Alpha: 1.000000
+Width: 0.070000
+Alpha: 1.000000
+DestNum: 1
+StartTime: 0
+DestVal: 0.000000
+DestVal: 0.150000
+TransTime: 150
+Pos1Enable: 0
+Pos2Enable: 0
+UseNormal: 0
+Normal: 0.000000, 0.000000, 0.000000
+Filter: 1
+WaveMoving: 0
+WaveMovingSpeed: 1.000000
+FixWaveLength: 0
+NumWaves: 5.000000
+isappend: 1
+renderside: 0
+istaildisappear: 1
+vertslife: 1000
+tailfadeout: 0
+StartTime: 50
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 75
+Position: 0.000000, 0.000000, 0.000000
+Color: -16645626
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 110
+StartTime: 0.000000
+EndTime: -1.000000
+CalcDir: 0
+Count: 6
+Pos: 0.516000, 0.000000, 0.000000
+Pos: 0.325000, 0.379500, 0.000000
+Pos: 0.004000, 0.506000, 0.000000
+Pos: -0.347187, 0.336235, 0.000000
+Pos: -0.500000, 0.000000, 0.000000
+Pos: -0.329051, -0.350218, 0.000000
+InterpolateMode: 0
+TimeSpan: 750
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

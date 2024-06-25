@@ -1,0 +1,539 @@
+MOXTVersion: 82
+DedaultScale: 0.700000
+PlaySpeed: 1.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 5607580168617984.000000
+FadeEnd: 5607580168617984.000000
+Vec: -0.801302, -0.985940, -0.895336
+Vec: 0.767579, 0.828423, 0.736718
+UseAABB: 0
+ShakeCam: 0
+ShakeDamp: 0
+NoChangeDir: 1
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 1
+GFXELEMENTID: 200
+Name: Unnamed4
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+GfxPath: 策划联入\状态效果\嗜血狂乱_状态_骷髅子效果.gfx
+OutColor: 0
+LoopFlag: 0
+PlaySpeed: 1.000000
+StartTime: 0
+KEYPOINTCOUNT: 16
+InterpolateMode: 0
+TimeSpan: 1750
+Position: -0.600000, -0.200000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 2100
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.000000
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1925
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 2200
+Position: -0.600000, -0.678706, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.000000
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 2025
+Position: -0.600000, -0.339653, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1750
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1575
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 2075
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1525
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1150
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 2175
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1700
+Position: -0.600000, -0.259910, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 3
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1725
+Position: -0.600000, -0.199930, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.000000
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1800
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.000000
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: -1
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 4
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.000000
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+InterpolateMode: 0
+TimeSpan: 1524
+Position: -0.600000, 0.000000, 0.000000
+Color: -1
+Scale: 0.600000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 8
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.349066
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 0.349066
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 1.000000, 0.000000
+Vel: 6.981317
+Acc: 0.000000
+CtrlType: 100
+StartTime: 0.000000
+EndTime: 0.800000
+Dir: 0.000000, 1.000000, 0.000000
+Vel: 2.000000
+Acc: -1.000000
+CtrlType: 100
+StartTime: 0.600000
+EndTime: 1.200000
+Dir: 0.000000, -1.000000, 0.000000
+Vel: 2.000000
+Acc: 0.000000

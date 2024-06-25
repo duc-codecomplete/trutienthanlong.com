@@ -1,0 +1,428 @@
+MOXTVersion: 79
+DedaultScale: 1.000000
+PlaySpeed: 1.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 0.000000
+FadeEnd: 0.000000
+Vec: -0.745347, -0.763017, -0.260443
+Vec: 0.745347, 0.763016, 0.200000
+UseAABB: 1
+ShakeCam: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+PhysExist: 0
+GFXELEMENTCOUNT: 7
+GFXELEMENTID: 100
+Name: Unnamed19
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: -1
+RepeatDelay: 0
+TexFile: 图案\诛仙法阵10.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 3
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.500000
+Height: 0.500000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.750000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 1500
+Position: 0.000000, 0.079869, 0.000000
+Color: -5044764
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 5
+CtrlType: 102
+StartTime: 0.000000
+EndTime: 0.200000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.300000
+EndTime: 0.500000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.600000
+EndTime: 0.800000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.900000
+EndTime: 1.100000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 1.200000
+EndTime: 1.400000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+GFXELEMENTID: 100
+Name: Unnamed21
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: -1
+RepeatDelay: 0
+TexFile: 图案\诛仙法阵10.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.500000
+Height: 0.500000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.750000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: 1500
+Position: 0.000000, 0.079869, -0.008017
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 5
+CtrlType: 102
+StartTime: 0.000000
+EndTime: 0.200000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.300000
+EndTime: 0.500000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.600000
+EndTime: 0.800000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 0.900000
+EndTime: 1.100000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+CtrlType: 102
+StartTime: 1.200000
+EndTime: 1.400000
+Pos: 0.000000, 0.000000, 0.000000
+Axis: 0.000000, 0.000000, 1.000000
+Vel: 6.283185
+Acc: 0.000000
+GFXELEMENTID: 100
+Name: Unnamed22
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 法阵\法阵46_td.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.500000
+Height: 0.500000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.750000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 190
+Name: Unnamed23
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 图案\K骷髅头.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 3
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Coeff: 0.500000
+height: 0.200000
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, -0.033613, 0.178279
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, -1.000000, 0.000000, 0.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 101
+Name: Unnamed24
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 粒子\通道粒子2.tga
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+priority: 2
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.500000
+Height: 0.500000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.750000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, -0.026000, -0.063914
+Color: -10416267
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 101
+Name: Unnamed25
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 光晕\水纹光晕_td.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.350000
+Height: 0.350000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.525000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, -0.034000, -0.045914
+Color: -465668
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 101
+Name: Unnamed26
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: 1
+RepeatDelay: 0
+TexFile: 序列\紫色闪面4x4_td.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+GroundHeight: 0
+TexRow: 4
+TexCol: 4
+TexInterval: 50
+Priority: 4
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+NoDownSample: 0
+ResetLoopEnd: 1
+TexAnimMaxTime: 0
+Width: 0.300000
+Height: 0.300000
+RotFromView: 0
+GrndNormOnly: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+ZOffset: 0.000000
+MatchSurface: 0
+MaxExtent: 0.450000
+YawEffect: 0
+StartTime: 0
+KEYPOINTCOUNT: 1
+InterpolateMode: 0
+TimeSpan: -1
+Position: 0.000000, -0.033985, -0.043873
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0

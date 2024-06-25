@@ -1,0 +1,217 @@
+MOXTVersion: 50
+DedaultScale: 1.000000
+PlaySpeed: 1.000000
+DefaultAlpha: 1.000000
+Raytrace: 0
+FaceToViewer: 0
+FadeByDist: 0
+FadeStart: 10.000000
+FadeEnd: 30.000000
+Vec: -0.759713, -0.764521, -0.234189
+Vec: 0.769674, 0.792904, 0.256667
+ShakeCam: 0
+NoChangeDir: 0
+2DRender: 0
+2DBackLayer: 0
+GFXELEMENTCOUNT: 3
+GFXELEMENTID: 123
+Name: Unnamed2
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: -1
+RepeatDelay: 0
+TexFile: ÑÌ»ð\smork005.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 1
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 1
+Quota: -1
+ParticleWidth: 1.000000
+ParticleHeight: 1.000000
+3DParticle: 0
+Facing: 0
+ScaleNoOff: 0
+NoScale: 0
+NoScale: 0
+OrgPt: 0.500000
+OrgPt: 0.500000
+EmissionRate: 50.000000
+Angle: 0.052360
+Speed: 0.000000
+ParAcc: 0.000000
+AccDir: 0.577350, 0.577350, 0.577350
+Acc: 0.000000
+TTL: 1.000000
+ColorMin: 1694433280
+ColorMax: 1694433280
+ScaleMin: 0.200000
+ScaleMax: 0.500000
+RotMin: 0.000000
+RotMax: 6.283185
+IsSurface: 0
+IsBind: 0
+IsDrag: 0
+DragPow: 1.000000
+AreaSize: 0.300000, 0.300000, 0.300000
+AffectorCount: 4
+CtrlType: 104
+StartTime: 0.000000
+EndTime: -1.000000
+Pos: 0.000000, 0.000000, 0.000000
+Vel: 0.100000
+Acc: 0.000000
+CtrlType: 101
+StartTime: 0.000000
+EndTime: -1.000000
+Vel: 3.490659
+Acc: 0.000000
+CtrlType: 108
+StartTime: 0.000000
+EndTime: -1.000000
+Color: 170732891
+Count: 2
+Color: -1774898071
+TimeSpan: 200.000000
+Color: 3816054
+TimeSpan: 300.000000
+CtrlType: 106
+StartTime: 0.000000
+EndTime: -1.000000
+ScaleChage: -0.300000, 0.010000, 9999.000000
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 1950
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: -0.707107, 0.000000, 0.000000, 0.707107
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+InterpolateMode: 0
+TimeSpan: 50
+Position: 0.000000, 0.000000, 0.000000
+Color: 16777215
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed4
+SrcBlend: 5
+DestBlend: 6
+RepeatCount: -1
+RepeatDelay: 0
+TexFile: ¹ì¼£\ghostalpha.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 1
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+OrgPos1: 0.300000, 0.000000, 0.000000
+OrgPos2: -0.300000, 0.000000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 1500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 1750
+Position: 0.000000, 0.000000, 0.000000
+Color: 5662366
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 105
+StartTime: 0.000000
+EndTime: -1.000000
+ColorDelta: 0, 0, 0, 1000
+InterpolateMode: 0
+TimeSpan: 250
+Position: 0.000000, 0.000000, 0.000000
+Color: -14869213
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
+GFXELEMENTID: 110
+Name: Unnamed5
+SrcBlend: 5
+DestBlend: 2
+RepeatCount: -1
+RepeatDelay: 0
+TexFile: ¹ì¼£\ghostalpha.dds
+BindEle: 
+ZEnable: 1
+MatchGrnd: 0
+TexRow: 1
+TexCol: 1
+TexInterval: 50
+Priority: 1
+IsDummy: 0
+DummyEle: 
+Warp: 0
+TileMode: 0
+TexSpeed: 0.000000
+TexSpeed: 0.000000
+UReverse: 0
+VReverse: 0
+UVExchg: 0
+RenderLayer: 0
+OrgPos1: 0.200000, 0.000000, 0.000000
+OrgPos2: -0.200000, 0.000000, 0.000000
+EnableMat: 0
+EnableOrgPos1: 0
+EnableOrgPos2: 0
+SegLife: 500
+Bind: 0
+StartTime: 0
+KEYPOINTCOUNT: 2
+InterpolateMode: 0
+TimeSpan: 1750
+Position: 0.000000, 0.000000, 0.000000
+Color: 16777215
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 1
+CtrlType: 105
+StartTime: 0.000000
+EndTime: -1.000000
+ColorDelta: 0, 0, 0, 1000
+InterpolateMode: 0
+TimeSpan: 250
+Position: 0.000000, 0.000000, 0.000000
+Color: -1
+Scale: 1.000000
+Direction: 0.000000, 0.000000, 0.000000, 1.000000
+Rad_2D: 0.000000
+CtrlMethodCount: 0
