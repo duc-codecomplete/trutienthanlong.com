@@ -36,7 +36,7 @@
         <header class="header">
             <div class="container animatedParent">
                 <h1 class="logo">
-                    <a href="/trang-chu">
+                    <a href="/">
                         <img src="/fe/site/logo2.png" alt="" width="174" height="210">
                     </a>
                 </h1>
@@ -73,7 +73,7 @@
                             <a class="choingay" href="#" target="_blank">
                                 <img src="/fe/site/taingay.gif" alt="">
                             </a>
-                            <a class="btn-image" href="/huong-dan/huong-dan-cai-dat"
+                            <a class="btn-image" href="/tai-game"
                                 target="_blank">
                                 <img src="/fe/site/huongdantaigame.jpg" alt="">
                                 <img src="/fe/site/huongdantaigame-hover.jpg" alt="">
@@ -84,7 +84,7 @@
                                     <img src="/fe/site/19006837.jpg" alt="">
                                     <img src="/fe/site/19006837-hover.jpg" alt="">
                                 </a>
-                                <a class="btn-image" href="https://hotro.cmn.vn/" target="_blank">
+                                <a class="btn-image" href="" target="_blank">
                                     <img src="/fe/site/hotro.jpg" alt="">
                                     <img src="/fe/site/hotro-hover.jpg" alt="">
                                 </a>
@@ -161,7 +161,7 @@
         <div class="popup popup-giftcode"><a class="close fas fa-times" href="javascript:;"></a>
             <div class="popup-title">Thông báo</div>
             <p>Chúc mừng bạn đã nhận Giftcode Tân Thủ</p>
-            <div class="value">kiemthanh2</div>
+            <div class="value">THANLONG</div>
         </div>
         <div class="popup popup-entersite"><a class="close fas fa-times" href="javascript:;"></a>
             <div class="popup-title">Thông báo</div>
