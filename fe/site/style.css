@@ -15315,8 +15315,6 @@ a {
       float: left; }
       .server-list li a {
         display: block;
-        width: 65px;
-        height: 30px;
         line-height: 30px;
         background: #182130;
         border: solid 1px #4a5371;
@@ -15331,11 +15329,7 @@ a {
           border-color: #a7bfe0; }
   .server .new {
     display: block;
-    width: 90px;
-    height: 67px;
-    float: left;
-    background: #182130;
-    border: solid 1px #4a5371;
+   
     color: #7a7da4;
     text-transform: uppercase;
     text-align: center;

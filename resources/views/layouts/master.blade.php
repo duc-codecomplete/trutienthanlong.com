@@ -103,27 +103,7 @@
                             </a>
                             <div class="server">
                                 <a class="new play-game" href="/play-s261">
-                                    S261<span
-                                        onclick="window.location.href=&#39;/play-s261&#39;;">(New)</span>
-                                </a>
-
-                                <ul class="server-list">
-                                    <li><a class="play-game" href="/play-s261">S261 </a></li>
-                                    <li><a class="play-game" href="/play-s260">S260 </a></li>
-                                    <li><a class="play-game" href="/play-s259">S259 </a></li>
-                                    <li><a class="play-game" href="/play-s258">S258 </a></li>
-                                    <li><a class="play-game" href="/play-s257">S257 </a></li>
-                                    <li><a class="play-game" href="/play-s256">S256 </a></li>
-                                    <li><a class="play-game" href="/play-s255">S255 </a></li>
-                                    <li><a class="play-game" href="/play-s254">S254 </a></li>
-                                    <li><a class="play-game" href="/play-s253">S253 </a></li>
-                                    <li><a class="play-game" href="/play-s252">S252 </a></li>
-                                    <li><a class="play-game" href="/play-s251">S251 </a></li>
-                                    <li><a class="play-game" href="/play-s250">S250 </a></li>
-                                </ul>
-                                <a class="btn-image" href="/may-chu">
-                                    <img src="/fe/site/xemthem.jpg" alt="">
-                                    <img src="/fe/site/xemthem-hover.jpg" alt="">
+                                    Thần Long
                                 </a>
                             </div>
                         </div>
@@ -179,22 +159,6 @@
                 <li><a href="/trang-chu" title="Bảo mật">Bảo mật</a> |</li>
                 <li><a href="/trang-chu" title="Thanh toán">Thanh toán</a></li>
             </ul>
-            <div class="copyright">
-                <img class="cmn" src="/fe/site/cmn.png" alt="">
-                <div class="address">
-                    ® CMN Online độc quyền phát hành tại Việt Nam.<br>
-                    CÔNG TY CỔ PHẦN TRỰC TUYẾN CMN ONLINE<br>
-                    Địa chỉ: 94-96-98 đường B2 - Phường An Lợi Đông - Thành phố Thủ Đức - TP Hồ Chí Minh
-                    <br>Điện thoại: (+84.028) 38 335 466 Email: contact@cmn.com.vn<br>
-                    Giấy phép cung cấp dịch vụ trò chơi điện tử G1 - Thay đổi lần thứ 1 số 482/GP-BTTT ngày 07/10/2022
-                    của Bộ Thông Tin và Truyền Thông
-                    <br>
-                    Quyết định phê duyệt nội dung kịch bản trò chơi <b>Kiếm Thánh số 227/QĐ-BTTTT ngày 26/08/2020</b>
-                    của Bộ Thông Tin và Truyền Thông <br>
-                    Người chịu trách nhiệm quản lý nội dung: ông Mai Xuân Khôi
-                </div>
-                <img class="img18" src="/fe/site/game18.png" alt="">
-            </div>
         </div>
     </div>
     <iframe allow="join-ad-interest-group" data-tagging-id="AW-10775049971" data-load-time="1718430460496" height="0"
